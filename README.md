@@ -1,5 +1,7 @@
 # Odd Jobs Backend
 
+Note that this is a snapshot of the main repo. While occasional updates may be made on the main repo, this snapshot serves as a backup should the main repo cease to exist.
+
 # Odd Jobs Backend
 
 > This is the frontend part of our group project, Odd Jobs, a mobile app to help connect members of the community who require, or wish to offer, help with odd jobs. Users have the ability to either post a job, or respond to a posted job. There is also an integrated chat feature which enables users to communicate about a job. The user’s location is pinned to a map which displays jobs in the surrounding area.
